@@ -32,3 +32,4 @@ La carpeta `dist/` contendrá todos los archivos para subir al hosting o despleg
 - `src/App.jsx` → componente principal
 - `src/main.jsx` → punto de entrada
 - `src/index.css` → estilos base# perkorafy-web
+# perkorafy-web
